@@ -1,0 +1,16 @@
+{
+  "name": "one-dark-tool-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A dark TOOL syntax theme",
+  "keywords": [
+    "dark",
+    "blue",
+    "syntax"
+  ],
+  "repository": "https://github.com/atom/one-dark-tool-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
